@@ -1,3 +1,5 @@
+This is a clone of https://github.com/martink-rsa/medium_react_mui
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
